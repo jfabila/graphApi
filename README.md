@@ -1,2 +1,1 @@
-# graphApi
-Created with CodeSandbox
+# graphql-api

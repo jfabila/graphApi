@@ -1,0 +1,14 @@
+{
+  "serverPort": 5000,
+  "db": {
+    "host": "ec2-3-234-169-147.compute-1.amazonaws.com",
+    "dialect": "postgres",
+    "database": "d8qpim74ghege0",
+    "username": "lrglofkzgroeed",
+    "password": "3dbe814847ac47ea683ef08b58f37084aa5edd237f5c2653c231faf7513a8b09"
+  },
+  "security": {
+    "secretKey": "Gr4pQlCM5",
+    "expiresIn": "7d"
+  }
+}
