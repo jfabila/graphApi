@@ -9,8 +9,8 @@
   "scripts": {
     "start": "nodemon src/index.js --ext js,graphql --exec babel-node",
     "test": "jest src",
-    "lint": "eslint src",
-    "build": "node bin/react-scripts.js build"
+    "lint": "eslint src"
+    
   },
   "husky": {
     "hooks": {
