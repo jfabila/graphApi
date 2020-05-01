@@ -9,7 +9,8 @@
   "scripts": {
     "start": "nodemon src/index.js --ext js,graphql --exec babel-node",
     "test": "jest src",
-    "lint": "eslint src"
+    "lint": "eslint src",
+    "build": "rimraf ./dist && copyfiles -u 1 src/**/*-graphql dist",
     
   },
   "husky": {
