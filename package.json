@@ -9,7 +9,7 @@
   "scripts": {
     "start": "nodemon src/index.js --ext js,graphql --exec babel-node",
     "test": "jest src",
-    "lint": "eslint src",
+    "lint": "eslint src"
     
     
     
