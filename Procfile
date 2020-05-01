@@ -1,1 +1,1 @@
-web: cd packages/server && node dist/servr/src/index.js
+web: node index.js
